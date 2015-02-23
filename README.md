@@ -2,7 +2,7 @@
 
 The script for this file:
 * Downloads the data to the computer.
-* Reads the data into R as *.file objects.
+* Reads the data into R as *.file objects for the file location.
 * rbinds the test and training set for each section, *_all objects
 * Gives the variable names from features.a object.
 * cbinds the X_all, subject_all and y_all tables together.
